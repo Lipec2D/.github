@@ -14,4 +14,4 @@ We accept contributions from the general public, and currently have a low standa
 
 Suggest changes below, or 👇
 
-https://jshrsz.dev/lipec2d/devs
+https://jshrsz.dev/lipec/devs
